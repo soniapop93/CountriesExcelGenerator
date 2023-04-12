@@ -18,3 +18,7 @@ C:\Users\Sonia\Documents\CountriesExcelGenerator\CountriesExcelGenerator\obj\Deb
 C:\Users\Sonia\Documents\CountriesExcelGenerator\CountriesExcelGenerator\obj\Debug\net6.0\CountriesExcelGenerator.pdb
 C:\Users\Sonia\Documents\CountriesExcelGenerator\CountriesExcelGenerator\obj\Debug\net6.0\CountriesExcelGenerator.genruntimeconfig.cache
 C:\Users\Sonia\Documents\CountriesExcelGenerator\CountriesExcelGenerator\obj\Debug\net6.0\ref\CountriesExcelGenerator.dll
+C:\Users\Sonia\Documents\CountriesExcelGenerator\CountriesExcelGenerator\bin\Debug\net6.0\BitMiracle.LibTiff.NET.dll
+C:\Users\Sonia\Documents\CountriesExcelGenerator\CountriesExcelGenerator\bin\Debug\net6.0\IronSoftware.Drawing.Common.dll
+C:\Users\Sonia\Documents\CountriesExcelGenerator\CountriesExcelGenerator\bin\Debug\net6.0\IronXL.dll
+C:\Users\Sonia\Documents\CountriesExcelGenerator\CountriesExcelGenerator\bin\Debug\net6.0\SixLabors.ImageSharp.dll

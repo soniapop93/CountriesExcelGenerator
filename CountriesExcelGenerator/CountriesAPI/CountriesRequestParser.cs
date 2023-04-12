@@ -7,11 +7,11 @@ namespace CountriesExcelGenerator.CountriesAPI
 {
     public class CountriesRequestParser
     {
-        public static void apiFilterResponse(string response)
+        public static List<Country> apiFilterResponse(string response)
         {
             List<Country> country_jobject = JsonSerializer.Deserialize<List<Country>>(response);
 
-            Console.WriteLine(country_jobject);
+            return country_jobject;
         }
     }
 }

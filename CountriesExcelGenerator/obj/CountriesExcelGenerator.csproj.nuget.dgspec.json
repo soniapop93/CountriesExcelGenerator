@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "IronXL.Excel": {
+              "target": "Package",
+              "version": "[2023.4.13, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[110.2.0, )"

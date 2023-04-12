@@ -1,5 +1,6 @@
 ﻿using System;
 using CountriesExcelGenerator.CountriesAPI;
+using CountriesExcelGenerator.Excel;
 using CountriesExcelGenerator.Utilities;
 
 public class Program
@@ -14,8 +15,11 @@ public class Program
            =============================================================
            =============================================================
         */
+        
         string response = RequestManager.getCountriesInfo("https://restcountries.com/v3.1/all");
 
-        CountriesRequestParser.apiFilterResponse(response);
+        List<Country> countriesList = CountriesRequestParser.apiFilterResponse(response);
+
+        GenerateExcel.createExcelDoc("Sonia",countriesList);
     }
 }

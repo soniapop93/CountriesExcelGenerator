@@ -8,10 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Excel\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="IronXL.Excel" Version="2023.4.13" />
     <PackageReference Include="RestSharp" Version="110.2.0" />
   </ItemGroup>
 

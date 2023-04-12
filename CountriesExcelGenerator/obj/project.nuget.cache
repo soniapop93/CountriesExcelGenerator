@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "8Yf6KnJVvgZhFWoLGj1lmPOk+CNS+QoUkgH6CJcNcGrZz185AfK3UIShdrdF0nuGmfrvWuOYNiXEwpt92SnD+g==",
+  "dgSpecHash": "S3B8H3SeV4RjdZWjLkFFPzrP9JARgk3ly5PieKqIdedZZFEP8ofZmLY9qdvrxJDo/3kAgfLLoBTpRBDAhoNirQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sonia\\Documents\\CountriesExcelGenerator\\CountriesExcelGenerator\\CountriesExcelGenerator.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Sonia\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\Sonia\\.nuget\\packages\\ironsoftware.system.drawing\\2023.3.3\\ironsoftware.system.drawing.2023.3.3.nupkg.sha512",
+    "C:\\Users\\Sonia\\.nuget\\packages\\ironxl.excel\\2023.4.13\\ironxl.excel.2023.4.13.nupkg.sha512",
+    "C:\\Users\\Sonia\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Sonia\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Sonia\\.nuget\\packages\\sixlabors.imagesharp\\2.1.3\\sixlabors.imagesharp.2.1.3.nupkg.sha512",
     "C:\\Users\\Sonia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sonia\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
     "C:\\Users\\Sonia\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Sonia\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
