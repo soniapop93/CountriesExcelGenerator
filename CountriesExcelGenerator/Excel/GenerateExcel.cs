@@ -35,7 +35,7 @@ namespace CountriesExcelGenerator.Excel
         public static void createExcelDoc(string authorName, List<Country> countriesList, string path)
         {
             string fileName = String.Format("Countries_Information_{0}.xls", DateTime.Now.ToString("dd-MM-yyyy"));
-            Console.WriteLine("Creating Excel document with name {0}" + fileName);
+            Console.WriteLine("Creating Excel document with name {0}", fileName);
 
             WorkBook xlsDocument = WorkBook.Create(ExcelFileFormat.XLS);
             xlsDocument.Metadata.Author = authorName;
