@@ -10,6 +10,6 @@ namespace CountriesExcelGenerator.CountriesAPI
     public class Maps
     {
         [JsonPropertyName("googleMaps")]
-        string googleMapsUrl { get; set; }
+        public string googleMapsUrl { get; set; }
     }
 }

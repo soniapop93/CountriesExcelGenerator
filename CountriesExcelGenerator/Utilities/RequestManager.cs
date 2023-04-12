@@ -11,6 +11,7 @@ namespace CountriesExcelGenerator.Utilities
     {
         public static string getCountriesInfo(string apiEndpoint)
         {
+            Console.WriteLine("Will request response from endpoint: {0}", apiEndpoint);
             string responseContent = "";
             RestClient client = new RestClient(apiEndpoint);
 

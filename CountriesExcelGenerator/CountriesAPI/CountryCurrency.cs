@@ -14,12 +14,6 @@ namespace CountriesExcelGenerator.CountriesAPI
 
         [JsonPropertyName("symbol")]
         public string currencySymbol { get; set; }
-
-        public CountryCurrency(string currencyName, string currencySymbol)
-        {
-            this.currencyName = currencyName;
-            this.currencySymbol = currencySymbol;
-        }
     }
 
 }
